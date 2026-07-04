@@ -1,4 +1,4 @@
-save these files in a folder called bf to make it easier to follow the manual.
+To make things easier, save the files in a folder called bf.
 This is just a small, compact Brainfuck interpreter written in Python.
 
 Usage:
