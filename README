@@ -1,0 +1,18 @@
+This is just a small, compact Brainfuck interpreter written in Python.
+
+Usage:
+  python pybf.py yourcode.bf
+
+You can use it as a module as well:
+
+import bf.pybf
+
+sourcecode = "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++."
+
+bf.pybf.evaluate(sourcecode)
+
+http://en.wikipedia.org/wiki/Brainfuck
+
+(C) Sebastian Kaspari 2011
+This program is licensed under the terms of the
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
