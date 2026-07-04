@@ -1,4 +1,4 @@
-This is just a small, compact Brainfuck interpreter written in Python.
+This is just a small, compact Brainfuck interpreter written in Python (It saves the files in a folder called bf.)
 
 Usage:
   python pybf.py yourcode.bf
