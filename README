@@ -12,6 +12,8 @@ sourcecode = "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
 
 bf.pybf.evaluate(sourcecode)
 
+WARNING: The command '_' is a custom extension that deletes the '__pycache__' directory. Use it with caution.
+
 http://en.wikipedia.org/wiki/Brainfuck
 
 (C) Sebastian Kaspari 2011
